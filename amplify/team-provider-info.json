@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "bandana-20190306211652-authRole",
+            "UnauthRoleArn": "arn:aws:iam::373454139916:role/bandana-20190306211652-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::373454139916:role/bandana-20190306211652-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "bandana-20190306211652-deployment",
+            "UnauthRoleName": "bandana-20190306211652-unauthRole",
+            "StackName": "bandana-20190306211652",
+            "StackId": "arn:aws:cloudformation:us-east-2:373454139916:stack/bandana-20190306211652/3835fe20-4098-11e9-918a-02e473ddfb1a"
+        }
+    }
+}

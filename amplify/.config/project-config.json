@@ -1,0 +1,17 @@
+{
+    "projectName": "bandana",
+    "version": "2.0",
+    "frontend": "javascript",
+    "javascript": {
+        "framework": "vue",
+        "config": {
+            "SourceDir": "bandana",
+            "DistributionDir": "dist",
+            "BuildCommand": "npm run-script build",
+            "StartCommand": "npm run-script serve"
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}
